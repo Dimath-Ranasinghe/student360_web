@@ -26,7 +26,7 @@ const teamMembers = [
     id: 1,
     name: "Dimath Ranasinghe",
     role: "Frontend Developer",
-    image: "/public/images/ddddd.jpg",
+    image: "/images/ddddd.jpg",
 linkedin: "https://www.linkedin.com/in/dimath-ranasinghe-908ba1295/"
   },
   {
@@ -357,7 +357,8 @@ function App() {
                   <h4 className="font-medium text-gray-900">Location</h4>
                   <p className="text-gray-600">
                     IIT CITY Office<br />
-                    435 Galle Rd,,Colombo 03<br />
+                    435 Galle Rd<br/>
+                    Colombo 03<br />
                     Sri Lanka
                   </p>
                 </div>
@@ -447,7 +448,7 @@ function App() {
                 <a href="https://github.com/Dimath-Ranasinghe/Student_360" className="hover:text-blue-400 transition-colors">
                   <Github className="w-6 h-6" />
                 </a>
-                <a href="https://www.instagram.com/sudent_360/" className="hover:text-blue-400 transition-colors">
+                <a href="https://www.instagram.com/student___360?igsh=YWc5cHV5eTZkd2lv" className="hover:text-blue-400 transition-colors">
                   <Instagram className="w-6 h-6" />
                 </a>
                 <a href="#" className="hover:text-blue-400 transition-colors">
