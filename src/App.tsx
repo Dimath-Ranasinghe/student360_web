@@ -26,12 +26,8 @@ const teamMembers = [
     id: 1,
     name: "Dimath Ranasinghe",
     role: "Frontend Developer",
-<<<<<<< HEAD
     image: "/public/images/ddddd.jpg",
-=======
-    image: "/images/ddddd.jpg",
->>>>>>> student
-    linkedin: "https://www.linkedin.com/in/dimath-ranasinghe-908ba1295/"
+linkedin: "https://www.linkedin.com/in/dimath-ranasinghe-908ba1295/"
   },
   {
     id: 2,
