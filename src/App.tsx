@@ -26,7 +26,7 @@ const teamMembers = [
     id: 1,
     name: "Dimath Ranasinghe",
     role: "Frontend Developer",
-    image: "public/images/ddddd.jpg",
+    image: "/images/ddddd.jpg",
     linkedin: "https://www.linkedin.com/in/dimath-ranasinghe-908ba1295/"
   },
   {
@@ -61,7 +61,7 @@ const teamMembers = [
     id: 6,
     name: "Tiyana Ludowyke",
     role: "Backend Developer",
-    image: "public/images/WhatsApp Image 2025-02-23 at 14.53.02_55648158.jpg",
+    image: "/images/WhatsApp Image 2025-02-23 at 14.53.02_55648158.jpg",
     linkedin: "https://www.linkedin.com/in/tiyana-ludowyke/"
   }
 ];
