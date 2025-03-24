@@ -54,7 +54,7 @@ linkedin: "https://www.linkedin.com/in/dimath-ranasinghe-908ba1295/"
     id: 5,
     name: "Yumira Chanul",
     role: "Backend Developer",
-    image: "public/images/yumira.JPG",
+    image: "/images/yumira.JPG",
     linkedin: "https://www.linkedin.com/in/yumira-chanul-4bb890320/"
   },
   {
